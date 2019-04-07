@@ -5,3 +5,5 @@
 
 3-Test: Run file "final_program.py" and give input via camera and in last press 'Q' button.
 
+NOTE: with all above files also download 'shape_predictor_68_face_landmarks.dat' file from given link   https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
+
